@@ -1,0 +1,45 @@
+running egg_info
+creating ../../build/mutil_bringup/mutil_bringup.egg-info
+writing ../../build/mutil_bringup/mutil_bringup.egg-info/PKG-INFO
+writing dependency_links to ../../build/mutil_bringup/mutil_bringup.egg-info/dependency_links.txt
+writing requirements to ../../build/mutil_bringup/mutil_bringup.egg-info/requires.txt
+writing top-level names to ../../build/mutil_bringup/mutil_bringup.egg-info/top_level.txt
+writing manifest file '../../build/mutil_bringup/mutil_bringup.egg-info/SOURCES.txt'
+reading manifest file '../../build/mutil_bringup/mutil_bringup.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/mutil_bringup/mutil_bringup.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dwduong74/mutil_robot/build/mutil_bringup/build
+creating /home/dwduong74/mutil_robot/build/mutil_bringup/build/lib
+creating /home/dwduong74/mutil_robot/build/mutil_bringup/build/lib/mutil_bringup
+copying mutil_bringup/__init__.py -> /home/dwduong74/mutil_robot/build/mutil_bringup/build/lib/mutil_bringup
+running install
+running install_lib
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup
+copying /home/dwduong74/mutil_robot/build/mutil_bringup/build/lib/mutil_bringup/__init__.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup
+byte-compiling /home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/share/ament_index
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/share/ament_index/resource_index
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/share/ament_index/resource_index/packages
+copying resource/mutil_bringup -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/ament_index/resource_index/packages
+copying package.xml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+copying launch/Spawn_launch.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+copying launch/nav2_slam.launch.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+copying launch/temp.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+copying launch/minimal.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+copying launch/amcl_pose.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+creating /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/base_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/amcl.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/TB3_1_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/base_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/TB3_2_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/TB3_1_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+copying param/TB3_2_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+running install_egg_info
+Copying ../../build/mutil_bringup/mutil_bringup.egg-info to /home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/dwduong74/mutil_robot/build/mutil_bringup/install.log'

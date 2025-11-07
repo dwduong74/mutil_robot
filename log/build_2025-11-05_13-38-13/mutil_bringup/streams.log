@@ -1,0 +1,34 @@
+[2.161s] Invoking command in '/home/dwduong74/mutil_robot/src/mutil_bringup': PYTHONPATH=/home/dwduong74/mutil_robot/build/mutil_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mutil_bringup build --build-base /home/dwduong74/mutil_robot/build/mutil_bringup/build install --record /home/dwduong74/mutil_robot/build/mutil_bringup/install.log --single-version-externally-managed install_data
+[2.737s] running egg_info
+[2.778s] writing ../../build/mutil_bringup/mutil_bringup.egg-info/PKG-INFO
+[2.779s] writing dependency_links to ../../build/mutil_bringup/mutil_bringup.egg-info/dependency_links.txt
+[2.780s] writing requirements to ../../build/mutil_bringup/mutil_bringup.egg-info/requires.txt
+[2.781s] writing top-level names to ../../build/mutil_bringup/mutil_bringup.egg-info/top_level.txt
+[2.863s] reading manifest file '../../build/mutil_bringup/mutil_bringup.egg-info/SOURCES.txt'
+[2.863s] adding license file 'LICENSE'
+[2.865s] writing manifest file '../../build/mutil_bringup/mutil_bringup.egg-info/SOURCES.txt'
+[2.865s] running build
+[2.865s] running build_py
+[2.866s] copying mutil_bringup/__init__.py -> /home/dwduong74/mutil_robot/build/mutil_bringup/build/lib/mutil_bringup
+[2.866s] running install
+[2.878s] running install_lib
+[2.919s] running install_data
+[2.920s] copying resource/mutil_bringup -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/ament_index/resource_index/packages
+[2.920s] copying package.xml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup
+[2.920s] copying launch/ex.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+[2.920s] copying launch/Spawn_launch.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+[2.920s] copying launch/nav2_slam.launch.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+[2.921s] copying launch/temp.py -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/launch
+[2.921s] copying param/base_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.921s] copying param/amcl.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.922s] copying param/TB3_1_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.922s] copying param/base_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.923s] copying param/TB3_2_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.923s] copying param/TB3_1_slam.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.924s] copying param/TB3_2_nav2.yaml -> /home/dwduong74/mutil_robot/install/mutil_bringup/share/mutil_bringup/param
+[2.924s] running install_egg_info
+[2.981s] removing '/home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup-0.0.0-py3.10.egg-info' (and everything under it)
+[2.981s] Copying ../../build/mutil_bringup/mutil_bringup.egg-info to /home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages/mutil_bringup-0.0.0-py3.10.egg-info
+[2.982s] running install_scripts
+[3.414s] writing list of installed files to '/home/dwduong74/mutil_robot/build/mutil_bringup/install.log'
+[3.479s] Invoked command in '/home/dwduong74/mutil_robot/src/mutil_bringup' returned '0': PYTHONPATH=/home/dwduong74/mutil_robot/build/mutil_bringup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dwduong74/mutil_robot/install/mutil_bringup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mutil_bringup build --build-base /home/dwduong74/mutil_robot/build/mutil_bringup/build install --record /home/dwduong74/mutil_robot/build/mutil_bringup/install.log --single-version-externally-managed install_data
